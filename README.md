@@ -8,7 +8,7 @@ wget https://raw.githubusercontent.com/qianmingax/KindleEar-Uploader/master/uplo
 chmod +x uploader.sh
 ./uploader.sh
 ```
-在首次部署以后，在仅修改了KindleEar的设置、未修改uploader.sh的情况下，仅运行./uploader.sh即可
+在首次部署以后，在仅修改了KindleEar的设置、未修改uploader.sh的情况下，仅运行./uploader.sh即可  
 KindleEar 上传教程：https://kindlefere.com/post/19.html 
 KindleEar 项目地址：https://github.com/cdhigh/KindleEar
 
